@@ -1,0 +1,16 @@
+mi06
+
+Recuperer le sql mi06.sql 
+
+
+http://localhost:8000/ProductWSGen
+
+http://localhost:8000/ProductWS
+
+l'adresse de destination du wsdl est ecrit en dur penser a la modifier
+
+
+http://localhost:8000/api
+
+
+
